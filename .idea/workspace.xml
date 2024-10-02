@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5b31c6-feb4-4069-ab91-467aa1c9331c" name="Changes" comment="Second first (start working)">
+    <list default="true" id="cd5b31c6-feb4-4069-ab91-467aa1c9331c" name="Changes" comment="Completed">
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/task2/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/second_task/class_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/second_task/function_view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +62,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dimentor/Documents/DjangoLess/mysite/mysite&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -57,6 +71,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite/mysite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +96,15 @@
       <option name="presentableId" value="Default" />
       <updated>1727868201360</updated>
       <workItem from="1727868202371" duration="1462000" />
-      <workItem from="1727869994235" duration="1493000" />
+      <workItem from="1727869994235" duration="2346000" />
+      <workItem from="1727872766140" duration="82000" />
+      <workItem from="1727872891681" duration="155000" />
+      <workItem from="1727873083443" duration="802000" />
+      <workItem from="1727873910920" duration="32000" />
+      <workItem from="1727873959902" duration="48000" />
+      <workItem from="1727874022495" duration="450000" />
+      <workItem from="1727874514489" duration="977000" />
+      <workItem from="1727875576545" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="Second first (start working)">
       <option name="closed" value="true" />
@@ -84,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727870215207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1727871922059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727871922059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second first (start working)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second first (start working)" />
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
   </component>
 </project>
